@@ -7,11 +7,11 @@ public class Marca {
 		nombre = marca;
 	}
 	
-	public String getMarca() {
+	public String getNombre() {
 		return this.nombre;
 	}
 	
-	public void setMarca(String marca) {
+	public void setNombre(String marca) {
 		this.nombre = marca;
 	}
 	
